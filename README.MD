@@ -1,7 +1,7 @@
 Static Website Example
 ----------------------
 
-Git Fundamentals Tutorial Demo Repo
+Az-400 Exam Class Repo- 11 Oct 2022
 
 
 License
